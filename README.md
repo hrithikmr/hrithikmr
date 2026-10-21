@@ -1,6 +1,6 @@
  Hi there 👋
 
-# 💫 About Me:
+# 🪐 About Me:
 👨‍💻 Software Developer passionate about building web and mobile applications.<br>📱 Flutter & Dart — crafting cross-platform mobile experiences.<br>🌐 Full-Stack Development — exploring frontend, backend, and database technologies.<br>⚙️ Backend Technologies — Java, REST APIs, and database integration.<br>🤝 Open to collaborating on innovative web and mobile projects.<br>🌱 Always learning Flutter, Kotlin, Java, and modern development practices.<br>💬 Ask me about Flutter, BLoC, Clean Architecture, REST APIs, and app development.<br>⚡ Fun fact: I turn coffee ☕ into code! 💻🚀
 
 
